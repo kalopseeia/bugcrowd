@@ -1,0 +1,14 @@
+[ * ] Loaded 7 targets
+[ * ] Loaded 43 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 30 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+[  [31mNOT VULNERABLE[0m  ]  -  https://a2m.bluejeans.com
+[  [31mNOT VULNERABLE[0m  ]  -  https://huddle.bluejeans.com
+[  [31mNOT VULNERABLE[0m  ]  -  https://api.bluejeans.com/
+[  [31mNOT VULNERABLE[0m  ]  -  https://bluejeans.com/
+[  [31mNOT VULNERABLE[0m  ]  -  https://primetime.bluejeans.com
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.bluejeans.com/
+[  [31mNOT VULNERABLE[0m  ]  -  https://static.bluejeans.com/

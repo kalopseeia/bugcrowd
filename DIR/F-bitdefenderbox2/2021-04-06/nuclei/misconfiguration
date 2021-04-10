@@ -1,0 +1,16 @@
+[2021-04-09 13:01:53] [springboot-trace] [http] [low] http://cloud-ecs.gravityzone.bitdefender.com/trace
+[2021-04-09 13:01:53] [springboot-trace] [http] [low] http://cloudgz-ecs.gravityzone.bitdefender.com/trace
+[2021-04-09 13:02:02] [springboot-trace] [http] [low] http://cloud-ecs.gravityzone.bitdefender.com/actuator/trace
+[2021-04-09 13:02:02] [springboot-trace] [http] [low] http://cloudgz-ecs.gravityzone.bitdefender.com/actuator/trace
+[2021-04-09 13:02:18] [springboot-trace] [http] [low] http://cloud-ecs.gravityzone.bitdefender.com/httptrace
+[2021-04-09 13:02:19] [springboot-trace] [http] [low] http://cloudgz-ecs.gravityzone.bitdefender.com/httptrace
+[2021-04-09 13:02:53] [springboot-trace] [http] [low] http://cloud-ecs.gravityzone.bitdefender.com/actuator/httptrace
+[2021-04-09 13:02:55] [springboot-trace] [http] [low] http://cloudgz-ecs.gravityzone.bitdefender.com/actuator/httptrace
+[2021-04-09 13:10:00] [springboot-trace] [http] [low] https://cloud-ecs.gravityzone.bitdefender.com/trace
+[2021-04-09 13:10:00] [springboot-trace] [http] [low] https://cloudgz-ecs.gravityzone.bitdefender.com/trace
+[2021-04-09 13:10:07] [springboot-trace] [http] [low] https://cloud-ecs.gravityzone.bitdefender.com/actuator/trace
+[2021-04-09 13:10:07] [springboot-trace] [http] [low] https://cloudgz-ecs.gravityzone.bitdefender.com/actuator/trace
+[2021-04-09 13:10:14] [springboot-trace] [http] [low] https://cloud-ecs.gravityzone.bitdefender.com/httptrace
+[2021-04-09 13:10:14] [springboot-trace] [http] [low] https://cloudgz-ecs.gravityzone.bitdefender.com/httptrace
+[2021-04-09 13:10:20] [springboot-trace] [http] [low] https://cloudgz-ecs.gravityzone.bitdefender.com/actuator/httptrace
+[2021-04-09 13:10:20] [springboot-trace] [http] [low] https://cloud-ecs.gravityzone.bitdefender.com/actuator/httptrace

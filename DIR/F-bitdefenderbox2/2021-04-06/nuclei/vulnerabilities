@@ -1,0 +1,7 @@
+[2021-04-09 12:47:28] [basic-cors-misconfig] [http] [low] https://myaccount.bitdefender.com
+[2021-04-09 12:51:30] [wordpress-user-enumeration] [http] [info] https://research.bitdefender.com/wp-json/wp/v2/users/
+[2021-04-09 12:51:31] [wp-license-file] [http] [info] https://brand.bitdefender.com/license.txt
+[2021-04-09 12:51:54] [wordpress-user-enumeration] [http] [info] https://research.bitdefender.com/?rest_route=/wp/v2/users/
+[2021-04-09 12:52:01] [wp-license-file] [http] [info] https://hotforsecurity.bitdefender.com/license.txt
+[2021-04-09 12:52:04] [wp-license-file] [http] [info] https://labs.bitdefender.com/license.txt
+[2021-04-09 12:53:23] [wp-license-file] [http] [info] https://research.bitdefender.com/license.txt
